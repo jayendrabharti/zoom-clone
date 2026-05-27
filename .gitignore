@@ -16,6 +16,12 @@ frontend/node_modules/
 frontend/.next/
 frontend/.env.local
 
+# Tests
+backend/tests/
+frontend/tests/
+frontend/vitest.config.mts
+frontend/vitest.setup.ts
+
 # OS
 .DS_Store
 Thumbs.db
